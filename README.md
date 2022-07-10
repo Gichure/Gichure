@@ -26,6 +26,7 @@
   </a>&nbsp;&nbsp; 
    
 </p>
+<h2 align='center'>:fire: My Stats</h2>
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=gichure&style=flat-square&color=blue" alt=""/>
 </p>
